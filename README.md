@@ -1,10 +1,10 @@
-git clone REPOSITORY_URL
+git clone REPOSITORY_URL <br/>
 cd MERN-Thinkboard
 
-cd backend
-npm install
-npm run dev
+cd backend <br/>
+npm install <br/>
+npm run dev <br/><br/>
 
-cd ../frontend
-npm install
+cd ../frontend <br/>
+npm install<br/>
 npm run dev
